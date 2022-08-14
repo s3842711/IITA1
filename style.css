@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+    font-family: Georgia, Times, serif;
+}
+h2{
+    font-family: Georgia, Times, serif;
+}
+h3{
+    font-family: Georgia, Times, serif;
+}
+p{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+.Content{
+    background-color: #570a57;
+    padding: 50px;
+}
+.Info{
+    float: right;
+    margin: 50px;
+    margin-bottom: 0px;
+    clear: both;
+}
+.Developer{
+    float: right;
+    margin: 50px;
+    clear: right;
+    background-color: #bababa;
+    position: relative;
+    bottom: 50px;
+}
+.MB{
+    float: right;
+    position: relative;
+    bottom: 522px;
+    right: 150px;
+}
+.LS{
+    display: inline-block;
+}
+.B5{
+    display: inline-block;
+}
+.Footer{
+    background-color: #222222;
+}
+html{
+    background-color: #171834;
+    margin: 100px 250px;
+    
+}
+body{
+    color: white;
+}
